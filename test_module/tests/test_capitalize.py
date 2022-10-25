@@ -1,4 +1,4 @@
-from test_module.capitalise import capitalize
+from capitalise import capitalize
 
 assert capitalize('hello') == 'Hello'
 
